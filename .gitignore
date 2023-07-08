@@ -1,0 +1,10 @@
+.vs
+.vscode
+
+[Oo]ut/
+[Rr]elease/
+[Dd]ebug/
+
+*.exe
+
+CMakeSettings.json
